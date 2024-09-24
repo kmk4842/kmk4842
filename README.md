@@ -1,5 +1,5 @@
 # Karol Marek Klimczak
-Hi there, I'm a professor of management at Lodz University of Technology. My research is mostly quantitative, looking at what companies do. I've been working on text mining methods sourcing data from company annual statements. I'm currently working on enriching company datasets with textual features in English, Polish, French, Italian and Spanish, working my way around Europe. 🤔 I’m looking for help with machine learning, especially LDA and neural networks in textual analysis. I can help with business statistics, econometrics and textual analysis.
+Hi there, I'm a professor of management at Lodz University of Technology and the Dean of the Faculty of Organization and Management. My research is mostly quantitative, looking at what companies do. I've been working on text mining methods sourcing data from company annual statements. I'm currently working on enriching company datasets with textual features in English, Polish, French, Italian and Spanish, working my way around Europe. 🤔 I’m looking for help with machine learning, especially LDA and neural networks in textual analysis. I can help with business statistics, econometrics and textual analysis.
 
 ## :hammer: Projects
 * Cross-language feature extraction using Open Multilingual WordNet
